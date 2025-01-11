@@ -1,0 +1,7 @@
+Welcome to the Microlink Simulator ( version : 4.0.0.7 )
+(c) Copyright 2005 - 2014, Schneider Electric. 
+MicroLink Simulator is a Schneider Electric Proprietary and Confidential        Material. It is meant to be used only by Schneider Electric employees involved  in product development activities. All rights reserved.
+Reproduction or Redistribution is strictly prohibited.
+Please use only if you are authorized to use this software.
+ulsim>+OK: usageHexValue : 0001
+ulsim>
